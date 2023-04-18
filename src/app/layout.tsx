@@ -21,7 +21,8 @@ export default function RootLayout({
       <body>
         <CssBaseline />
         <Header />
-        <Sidebar />
+        { /* INFO: Temporary hidden */}
+        { /* <Sidebar /> */}
         <div>
           {children}
         </div>

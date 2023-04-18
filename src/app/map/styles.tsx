@@ -4,13 +4,14 @@ export const Container = styled('div')`
   height: calc(100vh - 52.5px);
   width: 100vw;
   position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  overflow: hidden;
 
   svg {
-    max-height: 100%;
-    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     aspect-ratio: 1 / 1;
   }
 `;
