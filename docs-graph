@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T20:09:12.755Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FnqKNkd-zCze2Kb0d0-g" version="21.1.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-04-17T23:26:17.239Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HF0tPsRUTgo4GHnlevi5" version="21.1.8" type="device" pages="2">
   <diagram name="Page-1" id="TFJphqM7993NHRV7Jxvz">
-    <mxGraphModel dx="1341" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2584" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-2">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-4">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-7">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-9">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="55qxZA3X3_nVJMrp7sz4-1" target="55qxZA3X3_nVJMrp7sz4-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="220" as="targetPoint" />
             <Array as="points">
@@ -22,21 +22,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-1" value="Router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-1" value="Router" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-2" value="map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-4" value="my-nade-list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-7" value="comunity-nade-list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-2" value="map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55qxZA3X3_nVJMrp7sz4-9" value="Articles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-4" value="my-nade-list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-7" value="comunity-nade-list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55qxZA3X3_nVJMrp7sz4-9" value="Articles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8vqZ6i47bBEQm23pJZkb" name="Design">
+    <mxGraphModel dx="2584" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

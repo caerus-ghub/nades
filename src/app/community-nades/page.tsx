@@ -1,5 +1,5 @@
 const Page = () => {
-  return <>Map<>;
+  return <>Map</>;
 }; 
 
 export default Page;
